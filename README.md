@@ -14,7 +14,7 @@ Desde cedo sou curioso, criativo e gosto de compartilhar conhecimento. Estudo co
 
 Fique à vontade para me chamar ou conectar comigo por aqui:
 
-- [LinkedIn](https://www.linkedin.com/in/gustavo-cigerza-padilha-28bbba23a/)
+- LinkedIn: [Gustavo Cigerza Padilha](https://www.linkedin.com/in/gustavo-cigerza-padilha-28bbba23a/)
 - Email: *padilhacgustavo@gmail.com*
 
 ---
