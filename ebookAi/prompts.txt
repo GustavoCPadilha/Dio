@@ -1,0 +1,14 @@
+PROMPT USADO NO CHATGPT:
+Faça um texto para eBook, com foco em PYTHON, listando as principais ideias de Machine Learning com Python, com exemplos em código.
+
+REGRAS:
+- Explique sempre de maneira simples
+- Deixe o texto enxuto
+- Textos entre os tópicos
+- Sempre traga exemplos de código em contextos reais
+- Sempre deixe um título sugestivo por tópico
+
+---
+
+PROMPT USADO NO CANVA IA:
+Gere uma imagem para meu eBook chamado "O Feitiço do Python - Aprenda Machine Learning" com o tema de um mago no estilo pixel art.
