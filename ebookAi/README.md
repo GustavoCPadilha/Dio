@@ -9,10 +9,6 @@ O arquivo do eBook está disponível neste repositório:
 ## 🧠 Prompts utilizados
 Veja os prompts utilizados na criação do conteúdo em [`prompts.txt`](./prompts.txt)
 
-## 🔗 Link do artigo
-Acesse o artigo online aqui:  
-[Seu link aqui]
-
 ## 🎨 Capa do eBook
 A imagem foi gerada com inteligência artificial no Canva, com o seguinte prompt:  
 *"Gere uma imagem para meu eBook chamado 'O Feitiço do Python - Aprenda Machine Learning' com o tema de um mago no estilo pixel art"*
