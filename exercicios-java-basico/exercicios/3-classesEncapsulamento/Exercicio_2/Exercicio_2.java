@@ -1,4 +1,4 @@
-package gustavo.classesencapsulamento.Exercicio_2;
+package Exercicio_2;
 
 import java.util.Scanner;
 

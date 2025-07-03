@@ -1,4 +1,4 @@
-package com.mycompany.classesencapsulamento.Exercicio_3;
+package Exercicio_3;
 
 import java.util.Scanner;
 
